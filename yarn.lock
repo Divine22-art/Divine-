@@ -1162,9 +1162,9 @@ make-fetch-happen@^9.1.0:
     ssri "^8.0.0"
 
 mathjs@^14.0.1:
-  version "14.0.1"
-  resolved "https://registry.yarnpkg.com/mathjs/-/mathjs-14.0.1.tgz#b47233a3e0913ae3d2669d67f4edf7a5b6fe1fb1"
-  integrity sha512-yyJgLwC6UXuve724np8tHRMYaTtb5UqiOGQkjwbSXgH8y1C/LcJ0pvdNDZLI2LT7r+iExh2Y5HwfAY+oZFtGIQ==
+  version "14.3.0"
+  resolved "https://registry.yarnpkg.com/mathjs/-/mathjs-14.3.0.tgz#db606241e92db9bd7d97727885cfec66e92b8cae"
+  integrity sha512-kJbTdBp+6OgZewCkvnm8pOWyiel7VGJVEPkmU+NHPdrpqDJlxwX9Q1F2DQv8nq7FrqnvVnJaL4OBQXA/S7TnhQ==
   dependencies:
     "@babel/runtime" "^7.25.7"
     complex.js "^2.2.5"
